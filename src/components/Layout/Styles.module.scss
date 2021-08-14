@@ -1,0 +1,21 @@
+.layout {
+    background-color:#fff; 
+    min-height:100vh;
+    display: flex;
+    .content{
+        flex:1;
+        display: flex;
+        padding:30px 0 30px 30px;
+    }
+}
+
+@media (max-width:768px){
+    .layout {
+        width: 100%;
+        padding-top: 60px;
+        .content{
+            padding:20px;
+            flex-direction: column;
+        }
+    } 
+}

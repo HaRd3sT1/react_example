@@ -1,0 +1,34 @@
+.Content {
+    padding-right: 30px;
+    min-height: calc(100vh - 82px);
+    max-width: 600px;
+    .title {
+        margin-top: 0px;
+        margin-bottom: 20px;
+        font-size:24px;
+        font-weight: normal;
+        color: #222;
+    }
+    .content{
+        display: flex;
+        .left {
+            flex:1;
+            margin-top: 20px;
+
+            .text {
+                color: #1a2b49;
+                margin:30px 0;
+                line-height: 26px;
+            }
+        }
+    }
+}
+@media(max-width:768px){
+    .Content {
+        padding:0px;
+        min-height:auto;
+        .content {
+            flex-direction: column;
+        }
+    }
+}

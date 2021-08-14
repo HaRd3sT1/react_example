@@ -1,0 +1,46 @@
+.header {
+    width: 30%;
+    .appBar {
+        background-color: var(--primary);
+        min-height: 100vh;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-direction: column;
+        }
+        .pageName {
+            color: #fff;
+            // font-weight: bold;
+            font-size: 18px;
+        }
+        .point {
+            width: 5px;
+            height: 5px;
+            border-radius: 100%;
+            background-color: #fff;
+            margin:10px 0;
+        }
+        .logo {
+            width: 180px;
+        }
+        .menu {
+            display: flex;
+            li{
+                a{
+                    display: flex;
+                    align-items: center;
+                    span {
+                        margin-left: 6px;
+                        color: var(--white-soft);
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+}

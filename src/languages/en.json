@@ -1,0 +1,23 @@
+{
+    "Home.iletisim": "Contact",
+    "Home.anasayfa": "Homepage",
+    "Home.girisYap": "Login Account",
+    "Home.name": "Name",
+    "Home.email": "E-Mail",
+    "Home.sifre": "Password",
+    "Home.sifreTekrar": "Password Again",
+    "Home.kayit_checkbox": "I agree to the terms & condtions",
+    "Home.hesabinizYokMu": "Don't Have an Account?",
+    "Home.cikisYap": "Logout",
+    "Home.ayarlar": "Settings",
+    "Home.telefon": "Phone",
+    "Home.ulke": "Country",
+    "Home.mesaj": "Message",
+    "Home.gonder": "Send Message",
+    "Home.success": "Success",
+    "Home.mesajinizGonderildi": "your message has been sent",
+    "Home.text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique urna nec purus mollis, ac ullamcorper magna sollicitudin. Cras neque arcu, varius a tortor lobortis, lacinia feugiat sapien. Nam imperdiet consectetur dolor, sed efficitur nunc luctus ut. Integer sit amet varius lorem, sit amet gravida eros. Integer neque risus, fermentum vitae ex id, ullamcorper dictum tellus. Maecenas egestas lorem id nisi semper, vel laoreet libero feugiat. Duis venenatis scelerisque fermentum. Vivamus ullamcorper iaculis purus, ut suscipit turpis bibendum et. Sed urna nibh, tincidunt quis rhoncus iaculis, consectetur hendrerit eros. Cras pulvinar turpis et massa sagittis euismod.",
+    "Home.text2": "Phasellus egestas libero eget massa semper lacinia. Pellentesque sollicitudin non mauris a porta. Nullam sem ligula, porta quis dui vitae, rhoncus consequat enim. Aenean et metus vehicula, elementum erat eu, molestie nisi. Donec in tellus ac urna malesuada ultricies id vel elit. Ut vel laoreet enim, sed pulvinar metus. Vestibulum semper elit sit amet aliquet tincidunt. Pellentesque dignissim, felis in eleifend ultricies, justo lorem efficitur lacus, a aliquet magna metus eu odio. Donec sit amet ipsum ante. Praesent ultrices magna vehicula eros dignissim pretium. Nunc sed nunc at leo maximus tincidunt. Suspendisse suscipit metus sit amet odio dapibus, eget tristique erat posuere. Etiam leo ante, egestas sit amet libero at, malesuada venenatis nisi. Vivamus molestie tempus urna ac condimentum. Nullam aliquam, mi at iaculis varius, dolor enim sodales justo, a hendrerit lacus nunc ac est.",
+    "Home.text3": "In accumsan efficitur mollis. Aenean mollis nunc nec felis convallis faucibus. Mauris quis venenatis nunc. Maecenas fringilla varius nisl, at accumsan diam rutrum non. Nullam maximus eu sapien in consectetur. Sed in ornare urna. Suspendisse potenti. Proin eget risus in est rhoncus molestie sit amet sit amet mauris. Phasellus metus tortor, congue sit amet aliquet quis, ultrices vel diam. Phasellus feugiat neque in semper aliquam. Integer lorem massa, vulputate in placerat sed, pellentesque eu nibh. Sed non ligula sit amet turpis maximus facilisis.",
+    "Home.kayitOl": "Register"
+}

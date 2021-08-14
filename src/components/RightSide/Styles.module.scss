@@ -1,0 +1,52 @@
+.header {
+    width: 250px;
+    .appBar {
+        min-height: 100%;
+        border-radius: 10px 0 0 10px;
+        .list {
+            width: 100%;
+            span {
+                opacity: .86;
+            }
+            .active {
+                background-color: var(--primary-light-2);
+                color: var(--primary-dark);
+            }
+        }
+        .auth {
+            margin-top: 10px;
+            div.userName {
+                padding: 8px 0;
+                cursor: pointer;
+                font-size: 15px;
+                color: #777;
+                transition: .2s all;
+                &:hover {
+                    color: #222;
+                }
+            }
+            div.login {
+                padding: 8px 0;
+                cursor: pointer;
+                font-size: 15px;
+                color: #777;
+                transition: .2s all;
+                &:hover {
+                    color: #222;
+                }
+            }
+        }
+    }
+}
+.sidebar {
+    border-left: 1px solid #c4c4c4;
+    .list {
+        span {
+            opacity: .86;
+        }
+        .active {
+            background-color: var(--primary-light-2);
+            color: var(--primary-dark);
+        }
+    }
+}
